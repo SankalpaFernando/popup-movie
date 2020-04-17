@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/popup-movie/static/css/main.574ec02f.chunk.css",
+    "main.js": "/popup-movie/static/js/main.42858a8d.chunk.js",
+    "main.js.map": "/popup-movie/static/js/main.42858a8d.chunk.js.map",
+    "runtime-main.js": "/popup-movie/static/js/runtime-main.339d1a28.js",
+    "runtime-main.js.map": "/popup-movie/static/js/runtime-main.339d1a28.js.map",
+    "static/css/2.47622221.chunk.css": "/popup-movie/static/css/2.47622221.chunk.css",
+    "static/js/2.2be0d4be.chunk.js": "/popup-movie/static/js/2.2be0d4be.chunk.js",
+    "static/js/2.2be0d4be.chunk.js.map": "/popup-movie/static/js/2.2be0d4be.chunk.js.map",
+    "index.html": "/popup-movie/index.html",
+    "precache-manifest.74135993afe2ef704e3e605d9291717e.js": "/popup-movie/precache-manifest.74135993afe2ef704e3e605d9291717e.js",
+    "service-worker.js": "/popup-movie/service-worker.js",
+    "static/css/2.47622221.chunk.css.map": "/popup-movie/static/css/2.47622221.chunk.css.map",
+    "static/css/main.574ec02f.chunk.css.map": "/popup-movie/static/css/main.574ec02f.chunk.css.map",
+    "static/js/2.2be0d4be.chunk.js.LICENSE.txt": "/popup-movie/static/js/2.2be0d4be.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/popup-movie/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.339d1a28.js",
+    "static/css/2.47622221.chunk.css",
+    "static/js/2.2be0d4be.chunk.js",
+    "static/css/main.574ec02f.chunk.css",
+    "static/js/main.42858a8d.chunk.js"
+  ]
+}
